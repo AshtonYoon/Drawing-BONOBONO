@@ -2,4 +2,4 @@
 pure css drawing 
 
 # Preview
-![1](Drawing-BONOBONO/images/캡처.PNG)
+![1](https://github.com/AshtonYoon/Drawing-BONOBONO/blob/master/images/%EC%BA%A1%EC%B2%98.PNG?raw=true)
